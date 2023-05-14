@@ -1,0 +1,6 @@
+flask
+celery
+redis
+flask-sqlalchemy
+Flask-Migrate
+requests
